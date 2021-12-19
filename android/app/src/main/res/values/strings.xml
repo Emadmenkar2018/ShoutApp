@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">shout</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiZW1hZG1lbiIsImEiOiJja3g2NHl1d24yYmhqMnFvYjBkMDU1YTJqIn0._BxdTHkg8DCdrqgrZPPq7A</string>
+</resources>

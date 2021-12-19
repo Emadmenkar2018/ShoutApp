@@ -1,0 +1,4 @@
+const USER_POINTS = 15;
+const CREATE_SHOUT_POINT = 3;
+
+export {  USER_POINTS,CREATE_SHOUT_POINT };
